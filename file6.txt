@@ -1,1 +1,1 @@
-This is newely created file5.txt
+updated file6.txt in local repo
